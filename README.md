@@ -1,4 +1,4 @@
-# cloud-resume-challenge
+# Cloud resume Challenge
 My Cloud Resume Challenge project for showcasing my cloud skills
 
 This repository contains my submission for the Cloud Resume Challenge. The project includes a resume hosted on AWS with a visitor counter implemented using serverless architecture.
