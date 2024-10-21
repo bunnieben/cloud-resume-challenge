@@ -10,8 +10,7 @@ This repository contains my submission for the Cloud Resume Challenge. The proje
 - **CI/CD Pipeline**: Automated deployment using GitHub Actions.
 
 ## How to Access
-You can view the live version of my resume at [ULR].
-
+You can view the live version of my resume at [(http://benjawans.com)]
 ## Technical Skills Demonstrated
 - AWS Services: S3, Lambda, API Gateway, DynamoDB
 - Infrastructure as Code: Terraform
